@@ -1,0 +1,14 @@
+.display-1{
+font-size: large;    
+}
+.lead{
+    font-size: smaller;
+}
+.card-img-top{
+    width: fit-content;
+    height: 211px;
+}
+
+.submit{
+    text-align: center;
+}
